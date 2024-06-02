@@ -1,0 +1,59 @@
+
+.icon-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.icon-wrapper svg {
+  width: 24px;
+  height: 24px;
+}
+
+/* src/styles.css */
+.project-container {
+    overflow: hidden;
+    position: relative;
+  }
+  
+ /* src/styles.css */
+.project-details {
+    background-color: #000000; /* green-700 */
+    color: #ffffff; /* white text */
+    opacity: 0;
+    transform: translateY(100%);
+    transition: transform 0.7s ease-in-out, opacity 0.7s ease-in-out;
+  }
+  
+  
+  .project-container:hover .project-details {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .project-details-content {
+    transform: translateY(-50%);
+    transition: transform 0.7s ease-in-out;
+  }
+  
+  .project-container:hover .project-details-content {
+    transform: translateY(0);
+  }
+  
+  
+
+
+/* Navbar.css */
+.icon-wrapper {
+  display: inline-block;
+  transition: fill 0.5s ease;
+}
+
+header {
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+nav a {
+  transition: color 0.5s ease;
+}
