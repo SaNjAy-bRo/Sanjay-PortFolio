@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Explore the capabilities of our Gemini AI clone website, where you can enjoy the same features as the real one. Merge images, craft captivating compositions, and unleash your creativity effortlessly. Experience the future of digital artistry today!",
     image: port,
-    link: "https://gemini-ai-chi.vercel.app/",
+    link: "https://sanjay-port-folio.vercel.app/",
   },
   {
     title: "Gemini AI Clone",
