@@ -1,15 +1,8 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-scroll";
-import { faGithub } from "@fortawesome/free-brands-svg-icons";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import hack from "./Images/sanjoker-outline-1.png";
 import "./About.css";
 
-const Fonticon = [
-    {
-        icon: <FontAwesomeIcon icon={faGithub} />
-    },
-];
 
 export default function About() {
     const [name, setName] = useState('');
