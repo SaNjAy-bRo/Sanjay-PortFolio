@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SaNjAy-bRo/Sanjay-Kumar-PortFolio.git/static/css/main.3cbe5da8.css",
-    "main.js": "/SaNjAy-bRo/Sanjay-Kumar-PortFolio.git/static/js/main.15dc5ab6.js",
+    "main.js": "/SaNjAy-bRo/Sanjay-Kumar-PortFolio.git/static/js/main.8c275359.js",
     "static/media/weather.png": "/SaNjAy-bRo/Sanjay-Kumar-PortFolio.git/static/media/weather.d10bec5cab4c4e13b1aa.png",
     "static/media/knitebite.png": "/SaNjAy-bRo/Sanjay-Kumar-PortFolio.git/static/media/knitebite.4276fb7933d64bb55398.png",
     "static/media/anything.png": "/SaNjAy-bRo/Sanjay-Kumar-PortFolio.git/static/media/anything.fc5241414c7df8c7deff.png",
@@ -10,10 +10,10 @@
     "static/media/gemini ai clone.png": "/SaNjAy-bRo/Sanjay-Kumar-PortFolio.git/static/media/gemini ai clone.987897631c0eaed8f49c.png",
     "index.html": "/SaNjAy-bRo/Sanjay-Kumar-PortFolio.git/index.html",
     "main.3cbe5da8.css.map": "/SaNjAy-bRo/Sanjay-Kumar-PortFolio.git/static/css/main.3cbe5da8.css.map",
-    "main.15dc5ab6.js.map": "/SaNjAy-bRo/Sanjay-Kumar-PortFolio.git/static/js/main.15dc5ab6.js.map"
+    "main.8c275359.js.map": "/SaNjAy-bRo/Sanjay-Kumar-PortFolio.git/static/js/main.8c275359.js.map"
   },
   "entrypoints": [
     "static/css/main.3cbe5da8.css",
-    "static/js/main.15dc5ab6.js"
+    "static/js/main.8c275359.js"
   ]
 }
