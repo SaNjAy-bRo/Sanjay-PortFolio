@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SaNjAy-bRo/Sanjay-Kumar-Portfolio.git/static/css/main.3cbe5da8.css",
+    "main.js": "/SaNjAy-bRo/Sanjay-Kumar-Portfolio.git/static/js/main.53e88c6d.js",
+    "static/media/weather.png": "/SaNjAy-bRo/Sanjay-Kumar-Portfolio.git/static/media/weather.d10bec5cab4c4e13b1aa.png",
+    "static/media/knitebite.png": "/SaNjAy-bRo/Sanjay-Kumar-Portfolio.git/static/media/knitebite.4276fb7933d64bb55398.png",
+    "static/media/anything.png": "/SaNjAy-bRo/Sanjay-Kumar-Portfolio.git/static/media/anything.fc5241414c7df8c7deff.png",
+    "static/media/PortFolio.png": "/SaNjAy-bRo/Sanjay-Kumar-Portfolio.git/static/media/PortFolio.3967aaa8f207d64ae0fd.png",
+    "static/media/sanjoker-outline-1.png": "/SaNjAy-bRo/Sanjay-Kumar-Portfolio.git/static/media/sanjoker-outline-1.5d17fdf8b3e83eae91f1.png",
+    "static/media/gemini ai clone.png": "/SaNjAy-bRo/Sanjay-Kumar-Portfolio.git/static/media/gemini ai clone.987897631c0eaed8f49c.png",
+    "index.html": "/SaNjAy-bRo/Sanjay-Kumar-Portfolio.git/index.html",
+    "main.3cbe5da8.css.map": "/SaNjAy-bRo/Sanjay-Kumar-Portfolio.git/static/css/main.3cbe5da8.css.map",
+    "main.53e88c6d.js.map": "/SaNjAy-bRo/Sanjay-Kumar-Portfolio.git/static/js/main.53e88c6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cbe5da8.css",
+    "static/js/main.53e88c6d.js"
+  ]
+}
