@@ -34,7 +34,7 @@ export default function Education() {
                     </h1>
                     <p className="mx-auto text-base leading-relaxed text-white xl:w-2/4 lg:w-3/4">
                         Explore my academic journey and accomplishments in the field of 
-                        Computer Science.
+                        Computer Applications.
                     </p>
                 </div>
                 <div className="flex flex-wrap -mx-2 lg:w-4/5 sm:mx-auto sm:mb-2">

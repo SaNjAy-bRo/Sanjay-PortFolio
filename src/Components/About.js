@@ -6,7 +6,7 @@ import "./About.css";
 
 export default function About() {
     const [name, setName] = useState('');
-    const actualName = "$@Nj@y"; // Your actual name
+    const actualName = "$@NJ@Y"; // Your actual name
     const [currentIndex, setCurrentIndex] = useState(0);
 
     useEffect(() => {
@@ -39,7 +39,7 @@ export default function About() {
                         Welcome to my Portfolio
                     </h1>
                     <h1 className="mb-4 text-3xl font-medium text-white title-font sm:text-4xl">
-                        I'm <span className="animate-name">{name}</span>...
+                        Hi, I'm <span className="animate-name">{name}</span>...
                     </h1>
                     <p className="mb-8 leading-relaxed text-white">
                         Passionate about web development, I thrive on crafting innovative, user-centric digital experiences. Committed to staying on the cutting edge of technology and design, I bring a keen eye for detail to ensure a seamless and captivating online journey. With a love for problem-solving, I'm dedicated to pushing the boundaries of what's possible in the ever-evolving world of web development.
@@ -60,7 +60,7 @@ export default function About() {
                                 link.click();
                             }}
                         >
-                            <span className="z-10 text-black hover:text-white">Download CV</span>
+                            <span className="z-10 text-black hover:text-white ">Download CV</span>
                             <span className="absolute top-0 left-0 w-full h-full transition-transform duration-300 ease-in-out transform translate-x-full bg-red-700 group-hover:translate-x-0"></span>
                         </button>
                     </div>
