@@ -45,7 +45,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: weather, // Corrected image path
-    link: "https://pythonbootcamp.com",
+    link: "https://sanjay-bro.github.io/Weather-Forecast/",
   },
 ];
 
