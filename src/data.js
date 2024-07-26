@@ -3,6 +3,7 @@ import Gem from "./Components/Images/gemini ai clone.png"
 import knite from "./Components/Images/knitebite.png"
 import anything from "./Components/Images/anything.png"
 import weather from "./Components/Images/weather.png"
+
 import port from "./Components/Images/PortFolio.png"
 
 

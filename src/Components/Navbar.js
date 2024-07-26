@@ -99,7 +99,7 @@ export default function Navbar() {
                     </div>
                     <div className="flex items-center mt-4 md:mt-0">
                         <a
-                            href="https://www.instagram.com/sanjay_thevar/"
+                            href="https://www.instagram.com/Sanjay.o_0"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="relative mr-8 icon-wrapper"

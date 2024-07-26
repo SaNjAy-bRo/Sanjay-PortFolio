@@ -55,8 +55,9 @@ export default function About() {
                             className="relative inline-flex items-center px-6 py-2 overflow-hidden text-lg text-black bg-white border-0 rounded focus:outline-none group"
                             onClick={() => {
                                 const link = document.createElement('a');
-                                link.href = '/path/to/your/cv.pdf'; // Replace with the path to your CV file
-                                link.download = 'your_cv.pdf'; // Set the file name
+                                
+                                link.href = '../SANJAY-KUMAR-Resume.pdf' // Replace with the path to your CV file
+                                link.download = 'SANJYAY-KUMAR-Resume'; // Set the file name
                                 link.click();
                             }}
                         >
