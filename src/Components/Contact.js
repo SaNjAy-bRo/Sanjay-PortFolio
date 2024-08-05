@@ -54,7 +54,7 @@ export default function Contact() {
                 EMAIL
               </h2>
               <a className="leading-relaxed text-indigo-400" href="mailto:Sanjayconnecting007@email.com">
-                Sanjayconnecting007@email.com
+                Sanjayconnecting007@gmail.com
               </a>
               <h2 className="mt-4 text-xs font-semibold tracking-widest text-yellow-300 title-font">
                 PHONE

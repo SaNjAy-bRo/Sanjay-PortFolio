@@ -57,3 +57,16 @@ header {
 nav a {
   transition: color 0.5s ease;
 }
+
+
+/* Navbar.css */
+.nav-link {
+  position: relative;
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+.nav-link.active {
+  text-decoration: underline;
+  font-weight: bold;
+  color: #4caf50; /* Change to desired highlight color */
+}
